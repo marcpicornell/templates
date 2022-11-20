@@ -1,16 +1,16 @@
 # templates
 My templates for a fullstack developer and dot files for Linux/FreeBSD/OpenBSD.
 
-* Full stack
-** Front end
-** Back end
-** DB
+# Full stack
+## Front end
+## Back end
+## DB 
 
-* DevSecOps
-** Automation
-** Observability
+# DevSecOps
+## Automation
+## Observability
 
-* *nix
-** FreeBSD
-** VoidLinux
-** OpenBSD
+# *nix
+## FreeBSD
+## VoidLinux
+## OpenBSD
