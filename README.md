@@ -11,6 +11,9 @@ My templates for a fullstack developer and dot files for Linux/FreeBSD/OpenBSD.
 ## Observability
 
 # *nix
-## FreeBSD
-## VoidLinux
+## BSD 
+### FreeBSD
 ## OpenBSD
+## Linux
+## VoidLinux
+
